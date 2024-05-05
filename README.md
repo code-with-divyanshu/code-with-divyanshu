@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Re-Imagine Hackathon**
-  [Divyanshu_Resume.pdf](https://github.com/code-with-divyanshu/code-with-divyanshu/files/15213759/Divyanshu_Resume.pdf)
+- 👯 I’m looking to collaborate on **Re-Imagine Hackathon**.
 
 - 👨‍💻 All of my projects are available at [https://code-with-divyanshu.github.io/portfolio/](https://code-with-divyanshu.github.io/portfolio/)
 
