@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Bartwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-divyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-divyanshu" /> </p>
 
@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Some Projects**
-
-- 🤝 I’m looking for help with **Re-Imagine Project**
+- 👯 I’m looking to collaborate on **Re-Imagine Hackathon**
+  [Divyanshu_Resume.pdf](https://github.com/code-with-divyanshu/code-with-divyanshu/files/15213759/Divyanshu_Resume.pdf)
 
 - 👨‍💻 All of my projects are available at [https://code-with-divyanshu.github.io/portfolio/](https://code-with-divyanshu.github.io/portfolio/)
 
