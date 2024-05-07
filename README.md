@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Bartwal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-divyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-divyanshu" /> </p>
-
 <p align="left"> <a href="https://twitter.com/divyanshub21040" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshub21040?logo=twitter&style=for-the-badge" alt="divyanshub21040" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Project**
@@ -18,7 +16,6 @@
 - 📫 How to reach me **divyanshubartwal67@gmail.com**
 
 - 📄 Know about my experiences [https://code-with-divyanshu.github.io/portfolio/portfolio/divyanshu-resume.pdf](https://code-with-divyanshu.github.io/portfolio/portfolio/divyanshu-resume.pdf)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/divyanahu.bartwal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyanshu_brtwl07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//divyanshu-bartwal-b7b058286/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DivyanshuB21040) 
@@ -38,9 +35,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=code-with-divyanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=code-with-divyanshu&icon=1&color=1)](https://visitcount.itsvg.in)
