@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Re-Imagine Hackathon**.
 
-- 👨‍💻 All of my projects are available at [https://code-with-divyanshu.github.io/portfolio/].
+- 👨‍💻 All of my projects are available at [https://devloper-divyanshu.netlify.app/].
 
 - 💬 Ask me about **Javascript, PHP, Wordpress**
 
 - 📫 How to reach me **divyanshubartwal67@gmail.com**
 
-- 📄 Know about my experiences [https://code-with-divyanshu.github.io/portfolio/portfolio/divyanshu-resume.pdf].
+- 📄 Know about my experiences [https://devloper-divyanshu.netlify.app/Divyanshu_Resume.pdf].
 
 
 ## 🌐 Socials:
