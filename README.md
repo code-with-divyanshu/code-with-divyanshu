@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Re-Imagine Hackathon**.
+- 👯 I’m looking to collaborate on **https://reimagine.sheryians.com/**.
 
 - 👨‍💻 All of my projects are available at [https://devloper-divyanshu.netlify.app/].
 
