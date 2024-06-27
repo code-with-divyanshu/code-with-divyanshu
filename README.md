@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **divyanshubartwal67@gmail.com**
 
-- 📄 Know about my experiences [https://devloper-divyanshu.netlify.app/Divyanshu_Resume.pdf].
+- 📄 Know about my experiences [Divyanshu_FrontendDeveloper.pdf].
 
 
 ## 🌐 Socials:
