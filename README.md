@@ -42,7 +42,7 @@
 </div>
 
 # 💻 Tech Stack:
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
