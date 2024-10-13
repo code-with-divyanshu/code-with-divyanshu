@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Front End Project**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **JavaScript Backend & DSA**
 
-<!-- - 👨‍💻 I’m looking to collaborate on **https://reimagine.sheryians.com/**. -->
+<!-- - 👨‍💻 I’m looking to collaborate on **Some React Project Ideas**. -->
 
 - 👨‍💻 All of my projects are available at <a href="https://devloper-divyanshu.netlify.app/" target="_blank">Personal Portfolio</a>.
 
