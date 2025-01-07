@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript Backend & DSA**
 
-<!-- - 👨‍💻 I’m looking to collaborate on **Some React Project Ideas**. -->
+<!-- - 👨‍💻 I’m looking to collaborate on **Some Project Ideas**. -->
 
 - 👨‍💻 All of my projects are available at <a href="https://devloper-divyanshu.netlify.app/" target="_blank">Personal Portfolio</a>.
 
-- 💬 Ask me about **Javascript, PHP, Wordpress, Git & Github**
+- 💬 Ask me about **Javascript, React, PHP, Wordpress, Git & Github**
 
 - 📫 How to reach me **divyanshubartwal67@gmail.com**
 
