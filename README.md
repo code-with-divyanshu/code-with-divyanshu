@@ -4,19 +4,13 @@
 
 <img align="right" height="200" src="https://devloper-divyanshu.netlify.app/img/divyanshu.jpg"/>
 
-- 🔭 I’m currently working on **Front End Project**
-
-- 🌱 I’m currently learning **JavaScript Backend & DSA**
-
-<!-- - 👨‍💻 I’m looking to collaborate on **Some Project Ideas**. -->
-
-- 👨‍💻 All of my projects are available at <a href="https://devloper-divyanshu.netlify.app/" target="_blank">Personal Portfolio</a>.
-
-- 💬 Ask me about **Javascript, React, PHP, Wordpress, Git & Github**
-
-- 📫 How to reach me **divyanshubartwal67@gmail.com**
-
-- 📄 Know about my experiences [Divyanshu_Resume](https://devloper-divyanshu.netlify.app/Divyanshu_FrontendDeveloper.pdf)
+🔭 I’m currently working on **Front End Project**
+🌱 I’m currently learning **JavaScript Backend & DSA**
+👨‍💻 I’m looking to collaborate on **Some Project Ideas**.
+👨‍💻 All of my projects are available at <a href="https://devloper-divyanshu.netlify.app/" target="_blank">Personal Portfolio</a>.
+💬 Ask me about **Javascript, React, PHP, Git & Github**
+📫 How to reach me **divyanshubartwal67@gmail.com**
+📄 Know about my experiences [Divyanshu_Resume](https://drive.google.com/file/d/1ixzo2gd0Vhvu3-dXVAK_Qv9oFOz4alFJ/view?usp=sharing)
 
 
 ## 🌐 Socials:
