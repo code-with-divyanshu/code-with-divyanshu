@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Bartwal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<img align="right" height="200" src="https://devloper-divyanshu.netlify.app/img/divyanshu.jpg"/>
+
 
 🔭 I’m currently working on **Front End Project** </br>
 🌱 I’m currently learning **JavaScript Backend & DSA**  </br>
