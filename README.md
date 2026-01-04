@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Divyanshu Bartwal</h1>
-<h3>A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3>A Passionate Software Developer Engineer from India 🇮🇳</h3>
 
 
 
