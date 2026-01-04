@@ -30,8 +30,8 @@
 - 💬 Ask me about **JavaScript, React, PHP, Git & GitHub, Web Development**
 
 <div>
-    <a href="https://devloper-divyanshu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
+    <a href="mailto:divyanshubartwal67@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />   
   </a>
    <a href="https://drive.google.com/file/d/1CNDkPZuQ5s168nwZdv07P3J1YJXxrNqi/view" target="_blank">
     <img src="https://img.shields.io/badge/View Resume-purple?style=for-the-badge&logo=googleDrive&logoColor=blue"/>
@@ -46,15 +46,24 @@
   <a href="https://www.linkedin.com/in/divyanshu-bartwal-b7b058286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://leetcode.com/u/runl4AVDwJ/" target="_blank">
+  <img src="https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+  <a href="https://codesandbox.io/u/divyanshubartwal67" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+   <a href="https://discord.com/users/1227151407837220874" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
   <a href="https://x.com/DivyanshuB21040" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/divyanshu_brtwl07/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://codesandbox.io/u/divyanshubartwal67" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  </a>
+ <a href="https://www.facebook.com/divyanahu.bartwal/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 </div>
 
 
