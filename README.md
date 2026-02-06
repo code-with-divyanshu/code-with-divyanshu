@@ -83,7 +83,12 @@
 
 <div align="center">
 
- <img src="https://streak-stats.demolab.com?user=code-with-divyanshu&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+
+ <img src="https://github-streak-stats-ruby.vercel.app/?user=code-with-divyanshu&theme=tokyonight&hide_border=true&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="github streak" />
+
+ <img src="https://helio-github-stats.vercel.app/api?username=code-with-divyanshu&custom_title=GitHub+Stats&theme=tokyonight&title_color=70a5fd&text_color=aa35ff&icon_color=4c71f2&ring_color=38bdae&hide_border=true&locale=en&border_radius=4.5&card_width=467&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="github stats" />
+
 
 </div>
 
@@ -93,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-divyanshu&theme=tokyonight&margin-w=15&no-frame=true" alt="github trophies" />
+<img src="https://github-trophies.vercel.app/?username=code-with-divyanshu&theme=onedark&margin-w=15&no-frame=true" alt="github trophies" />
 
 </div>
 
@@ -101,13 +106,18 @@
 
 ## 🌄 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-divyanshu&theme=tokyo-night&area=true" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-divyanshu&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph graph" />
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=code-with-divyanshu&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="top contro repo" />
+<div>
+<img src="https://github-contributor-stats.vercel.app/api?username=code-with-divyanshu&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="top contro repo" />
+  
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=code-with-divyanshu&layout=normal&stats_format=percentages&theme=dark&hide_border=true&card_width=466&locale=pt-br&custom_title=Top+Languages+" alt="top languages" />
+</div>
+
 
 ---
 
