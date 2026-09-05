@@ -85,7 +85,9 @@
 
 
 
- <img src="https://github-streak-stats-ruby.vercel.app/?user=code-with-divyanshu&theme=tokyonight&hide_border=true&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="github streak" />
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=code-with-divyanshu&theme=cyber-streakglow&hide_border=true)](https://git.io/streak-stats)
 
  <img src="https://helio-github-stats.vercel.app/api?username=code-with-divyanshu&custom_title=GitHub+Stats&theme=tokyonight&title_color=70a5fd&text_color=aa35ff&icon_color=4c71f2&ring_color=38bdae&hide_border=true&locale=en&border_radius=4.5&card_width=467&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="github stats" />
 
